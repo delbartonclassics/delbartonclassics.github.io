@@ -14,12 +14,12 @@ author: Michael Xu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About the club: "https://michaelxu50.github.io/classicsclub/about-the-club"
+  About the club: "https://delbartonclassics.github.io/about-the-club"
   Resources:
     - Schoology: "https://app.schoology.com/group/786260409"
-    - Contact: "https://michaelxu50.github.io/classicsclub/contact"
-  Events: "https://michaelxu50.github.io/classicsclub/events"
-  Leadership: "https://michaelxu50.github.io/classicsclub/leadership"
+    - Contact: "https://delbartonclassics.github.io/contact"
+  Events: "https://delbartonclassics.github.io/events"
+  Leadership: "https://delbartonclassics.github.io/leadership"
 
 # --- Logo --- #
 
